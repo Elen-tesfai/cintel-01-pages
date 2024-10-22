@@ -7,7 +7,7 @@ Here’s a clickable link: [My favorite AI assistant](https://chat.openai.com/)
 
 ## MyShinyMap
 Here’s a picture of my Shiny map when looking at examples:  
-![My Shiny Map](myshinyimage.png)
+![My Shiny Map](myshinyimage.png)  <!-- Replace 'myshinyimage.png' with your actual image file name -->
 
 ## How to Succeed
 It all comes down to three important steps:
