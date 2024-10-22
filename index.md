@@ -1,15 +1,16 @@
-# My Website Title
+# Elen Tesfai’s GitHub Page
 
-My first website using Markdown and GitHub Pages.
+Welcome to my first website using Markdown and GitHub Pages!
 
-## Links
-Here’s a clickable link: [Microsoft CoPilot](https://www.microsoft.com/en-us/microsoft-365/copilot)
+## A Link to My Favorite AI Assistant
+Here’s a clickable link: [My favorite AI assistant](https://chat.openai.com/)
 
-## Images
-Here’s a fun image of my pet:  
+## My Pet
+Here’s a picture of my pet:  
 ![My Pet Image](image.png)  <!-- Replace 'image.png' with your actual image file name -->
 
-## Reminders
-- Spaces matter
-- Spelling matters
-- Capitalization matters
+## How to Succeed
+It all comes down to three important steps:
+- **Success starts with listening**
+- **Practice what you hear**
+- **Repeat what you practice**
