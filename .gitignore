@@ -1,1 +1,46 @@
+# .gitignore for GitHub Pages project
+# This file specifies intentionally untracked files to ignore in this repository.
+# It includes OS-specific files, IDE settings, environment variables, and 
+# temporary files that should not be included in version control.
 
+# Windows specific files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# IDE/editor config files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.venv/
+venv/
+ENV/
+
+# Temporary files
+*.tmp
+
+# Log files
+*.log
+
+# Byte-compiled / optimized files (if using Python)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging (if using Python)
+build/
+dist/
+*.egg-info/
+
+# Coverage reports (if using Python)
+htmlcov/
+.coverage
+.coverage.*
+
+# Miscellaneous
+*.bak
+*.swp
